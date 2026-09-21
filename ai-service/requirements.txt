@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+opencv-python
+ultralytics
+numpy
+pymongo
+python-multipart
+onnxruntime
+requests

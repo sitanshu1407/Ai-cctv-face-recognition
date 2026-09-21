@@ -1,0 +1,7 @@
+ai-service/models/
+client/node_modules/
+server/node_modules/
+server/.env
+implementation_plan.md
+generate_pdf.py
+server/uploads/
